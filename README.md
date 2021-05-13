@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/wmcbtech30" target="blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-2-1.png" alt="wmcbtech30" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/wmcb-tech" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/YouTube_icon.png/640px-YouTube_icon.png" alt="wmcb-tech" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/wmcb-tech" target="blank"><img align="center" src="https://pngimg.com/uploads/youtube/youtube_PNG15.png" alt="wmcb-tech" height="30" width="40" /></a>
 <a href="https://discord.gg/nWRjTPQ" target="blank"><img align="center" src="https://discord.com/assets/2c21aeda16de354ba5334551a883b481.png" alt="nWRjTPQ" height="30" width="40" /></a>
 </p>
 
